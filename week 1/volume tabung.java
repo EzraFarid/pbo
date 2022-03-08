@@ -13,7 +13,7 @@ public class totod {
 	       //Input nilai jari-jari
 	       System.out.print("Masukan jari jari : ");
 	       r= input.nextInt();
-	       System.out.print("Masukan jari jari : ");
+	       System.out.print("Masukan tinggi : ");
 	       t= input.nextInt();
 
 	       //Menghitung luas lingkaran
